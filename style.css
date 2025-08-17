@@ -25,6 +25,7 @@ Você já sabe quais são as perguntas que irão nortear sua missão ?
 --cor-destaque: #2BDEFD;
 --cor-texto: #D7F9FF;
 }
+
 button{
 background-color: var(--cor-secundaria);
 color: var(--cor-texto);
